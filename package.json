@@ -1,0 +1,26 @@
+{
+  "name": "node-express-handlebars-homework11",
+  "version": "1.0.0",
+  "description": "a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolechai1028/homework11"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "handlebars"
+  ],
+  "homepage": "https://github.com/nicolechai1028/homework11",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "method-override": "^2.3.6",
+    "mysql": "^2.18.1"
+  }
+}
